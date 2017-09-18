@@ -1,2 +1,4 @@
 # web2
-welcome this project
+welcome to this project
+contributors guide
+just fork the ...
